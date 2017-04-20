@@ -31,8 +31,8 @@ The hero’s journey is a futurespective activity to help describing a story a t
  - 4.Group conversation
 
 > 
-> - 3. 要求参与者在每个区域写下自己的记录
-> - 4. 分组讨论
+> - 3.要求参与者在每个区域写下自己的记录
+> - 4.分组讨论
 
 <img src="http://www.funretrospectives.com/wp-content/uploads/2016/05/hero-journey-futurospective1.jpg" width = "300" height = "225" alt="hero-journey-futurospective1" align=center />
 
