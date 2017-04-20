@@ -18,10 +18,10 @@ The hero’s journey is a futurespective activity to help describing a story a t
 > 
 >1. 解释活动的目的：“我们在这里统一书写我们的英雄之旅的故事。”
 >2. 描述你旅程的主要区域。在我们故事里重点关注在以下几个方面：
->  - 英雄；某个即将要穿越这段旅程的人或者组织
->  - 向导；某个引领英雄的人或者物件
->  - 洞穴；面对的挑战
->  - 宝藏；奖品和成就
+>   - 英雄；某个即将要穿越这段旅程的人或者组织
+>   - 向导；某个引领英雄的人或者物件
+>   - 洞穴；面对的挑战
+>   - 宝藏；奖品和成就
 
 ![](http://www.funretrospectives.com/wp-content/uploads/2016/05/hero-journey-futurospective-300x225.jpg)
 
