@@ -1,4 +1,4 @@
-# Hero’s Journey（英雄之旅） #
++# Hero’s Journey（英雄之旅） #
 
 The hero’s journey is a futurespective activity to help describing a story a team is pursuing. It is inspired on Joseph Campbell’s book.
 > 英雄之旅是一个假想未来的活动，用于将团队的追求描述成一个故事。这也是受到了约瑟夫·坎贝尔书的启发。
