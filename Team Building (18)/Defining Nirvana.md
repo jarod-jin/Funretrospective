@@ -19,8 +19,8 @@ Running the activity:
 >
 1.	把天堂写在看板的右上角
 2.	把团队分成几个3-4个人左右的小组
-3.	让每个小组写下一短句来描述一下涅槃
-4.	每个小组分享他们描述涅槃的短句
+3.	让每个小组写下一短句来描述一下天堂
+4.	每个小组分享他们描述天堂的短句
 5.	用一个概括性的语句定义目标
 
 Please find below a sample photo after running this activity
