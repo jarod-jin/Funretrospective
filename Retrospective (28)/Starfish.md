@@ -4,7 +4,7 @@
 
 Starfish is a great data gathering activity to foster the thinking around practices and the value the team get from it. It helps team members to understand each other perceived value on such practices.
 
-> “海星图”是一个有效的帮助培育在实践中思考和从中为团队获取价值的数据收集活动。这个活动帮助团队成员感悟其他人在练习中领会到的价值所在。
+> “海星图”是一个有效的培养在实践中思考的能力和从中为团队获取价值的数据收集活动。这个活动帮助团队成员感悟其他人在练习中领会到的价值所在。
 
 The starfish divides the board into 5 areas:
 
