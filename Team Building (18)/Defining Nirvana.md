@@ -1,4 +1,4 @@
-# Defining Nirvana （定义天堂）
+# Defining Nirvana （定义乐土）
 
 ---
 
@@ -17,11 +17,11 @@ Running the activity:
 
 >执行活动：
 >
-1.	把天堂写在看板的右上角
+1.	把乐土写在看板的右上角
 2.	把团队分成几个3-4个人左右的小组
-3.	让每个小组写下一短句来描述一下天堂
-4.	每个小组分享他们描述天堂的短句
-5.	用一个概括性的语句定义目标
+3.	让每个小组写下一短句来描述一下乐土
+4.	每个小组分享他们描述乐土的短句
+5.	用一个概括性的语句定义乐土
 
 Please find below a sample photo after running this activity
 
@@ -31,9 +31,9 @@ Please find below a sample photo after running this activity
 
 What is our Nirvana?
 
-> 什么是我们的天堂
+> 什么是我们的乐土
 
 
 It is very interesting to see how this simple question gets the participants very engaged, and then aligned. This activity is a great first step towards preparing the path for reaching the Nirvana.
 
-> 这是一个非常有趣的现象，可以看到通过这个简单的问题使得参与者热情高涨并且团结一致。这个活动对于在通向天堂的道路上是非常重要的第一步。
+> 这是一个非常有趣的现象，可以看到通过这个简单的问题使得参与者热情高涨并且团结一致。这个活动对于在通向乐土的道路上是非常重要的第一步。
